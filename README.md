@@ -1,5 +1,5 @@
 - 👋 Hi, I am Mônica @emediato.
-- ✨ I graduated in Control and Automation Engineering at UFMG and Computer Network at CEFET-MG.
+- ✨ I graduated in Control and Automation Engineering at UFMG and I am a Computer Network Technician at CEFET-MG.
 - 👀 I am interested in Embedded Systems.
 - 🌱 I am currently learning robotics.
 - 💞️ I am looking to collaborate on Raspberry projects because I have one :)
